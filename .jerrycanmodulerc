@@ -7,7 +7,7 @@
   "route": {
     "urlLocation": "/module_two",
     "path": "module_two",
-    "directory_path": "module_one/ModuleTwo"
+    "directory_path": "module_two/ModuleTwo"
   },
   "global_types": [],
   "globalCycle": [],
